@@ -13,3 +13,6 @@ Mail: jpugliese@fi.uba.ar
 - Candela Matelica
 Padrón: 110641
 Mail: cmatelica@fi.uba.ar
+
+## Objetivo
+Aplicar el flujo completo de Ciencia de Datos en cuatro ejercicios: EDA, Clasificación, Regresión y Clustering, dejando todo reproducible y bien documentado.
