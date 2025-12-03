@@ -15,4 +15,16 @@ Padrón: 110641
 Mail: cmatelica@fi.uba.ar
 
 ## Objetivo
-Aplicar el flujo completo de Ciencia de Datos en cuatro ejercicios: EDA, Clasificación, Regresión y Clustering, dejando todo reproducible y bien documentado.
+Realizar análisis de sentimientos sobre reñas de películas aplicando diferentes técnicas de pre-procesamiento y diferentes modelos.
+
+## Distribución de los modelos en los Google Colab
+### N1:
+- XGBoost
+- Random Forest
+- Naive Bayes
+- LSVM
+- Ensamblaje Híbrido
+- Red Neuronal Recurrente
+
+### N2:
+- Red Neuronal con BERT
