@@ -1,3 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 /*.joblib/ filter=lfs diff=lfs merge=lfs -text
 /TP2/modelos/modelo_ehib.joblib filter=lfs diff=lfs merge=lfs -text
+/TP2/modelos/modelo_bert_sentiment.pth filter=lfs diff=lfs merge=lfs -text
